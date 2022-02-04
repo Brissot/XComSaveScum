@@ -10,4 +10,4 @@ Next, download this repo as a zip and extract all the files to your desktop.
 
 Edit "SaveScum.ps1" and "SaveReturn.ps1" and replace the name of your iron man save.
 
-Bind "SaveScum.bat" and "SaveReturn.bat" to keys. I used iCUE to bind it to my forward and back buttors on my mouse. The reason to use the .bat files is so that it won't create a window when it runs.
+Bind "SaveScum.bat" and "SaveReturn.bat" to keys. I used iCUE to bind it to my forward and back buttons on my mouse. The reason to use the .bat files is so that it won't create a window when it runs.
