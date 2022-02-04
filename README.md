@@ -1,4 +1,4 @@
-Some scripts to make save scumming easier.
+Some scripts to make save scumming in XCom easier. 9 dmg crits are not fun.
 
 In order to use this, you need to enable powershell scripts on your computer. To do so, open powershell as an <b>administrator</b> and run:
 
