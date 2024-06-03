@@ -1,1 +1,6 @@
 *.out
+*.o
+*.e
+*~
+UserInterface/test1
+UserInterface/test2
